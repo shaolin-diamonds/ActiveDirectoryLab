@@ -17,7 +17,9 @@
 <h3>2. Active Directory Tutorial</h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">3. Powershell Script to create users</a></h3>
 
-<h2>Active Directory Tutorial</h2>
+<hr>
+
+<h2 align="center">Active Directory Tutorial</h2>
 
 <p align="center">
 On the domain contoller, find both networks and figure out which is external and which is internal: <br/> 
