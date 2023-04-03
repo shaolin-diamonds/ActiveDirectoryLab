@@ -16,7 +16,7 @@
 <h3>1. Virtualbox Network Set up</h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/ADLab.md" target="_blank">2. Active Directory Tutorial</a></h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/PS_Script.md" target="_blank">3. Powershell Script to create users</a></h3>
-<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">4. Connect to Client Computer</a></h3>
+<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/ClientConnect.md" target="_blank">4. Connect to Client Computer</a></h3>
 <hr>
 <h3>1. Virtualbox Network Set up</h3>
 <p align="center"> 
