@@ -16,6 +16,7 @@
 <h3>1. Virtualbox Network Set up</h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/ADLab.md" target="_blank">2. Active Directory Tutorial</a></h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">3. Powershell Script to create users</a></h3>
+<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">4. Connect to Client Computer</a></h3>
 <hr>
 <p align="center"> 
 For the domain controller, we want to have two NICs (Network interface controllers). One to be used by the internet running NAT and then one that's for the internal virtualbox network. Adapter 1 is already attached to NAT, the external internet. Add another Network Adapter for the internal network: <br/> 
