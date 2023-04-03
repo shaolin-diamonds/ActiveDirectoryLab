@@ -15,7 +15,7 @@
 
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">1. Virtualbox Network Set up</a></h3>
 <h3>2. Active Directory Tutorial</h3>
-<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">3. Powershell Script to create users</a></h3>
+<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/PS_Script.md" target="_blank">3. Powershell Script to create users</a></h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">4. Connect to Client Computer</a></h3>
 
 <hr>
@@ -123,6 +123,7 @@ Authorize and refresh the DHCP server: <br/>
 <br />
 We can see the scope: <br/>
 <img src="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/00c22e957d92f0a9edea180df7bce52e891e277a/ActiveDirectory/033_DHCP%20scope%20set%20up.png" height="50%" width="50%" alt="Active Directory Steps"/>
+<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/PS_Script.md" target="_blank">3. Powershell Script to create users</a></h3>
 </p>
 
 <!--
