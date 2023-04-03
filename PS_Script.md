@@ -16,7 +16,7 @@
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">1. Virtualbox Network Set up</a></h3>
 <h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/ADLab.md" target="_blank">2. Active Directory Tutorial</a></h3>
 <h3>3. Powershell Script to create users</h3>
-<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">4. Connect to Client Computer</a></h3>
+<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/ClientConnect.md" target="_blank">4. Connect to Client Computer</a></h3>
 
 <hr>
 
@@ -70,7 +70,7 @@ Also can see the users under the _USERS OU: <br/>
 <img src="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/f215b8276f1ec80e47fa0170f64e2c09ad5803d4/ActiveDirectory/045_AD%20users.png" height="50%" width="50%" alt="Active Directory Steps"/> 
 <br /> 
 <br />
-<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/VM.md" target="_blank">4. Connect to Client Computer</a></h3>
+<h3><a href="https://github.com/shaolin-diamonds/ActiveDirectoryLab/blob/main/ClientConnect.md" target="_blank">4. Connect to Client Computer</a></h3>
 </p>
 
 <!--
